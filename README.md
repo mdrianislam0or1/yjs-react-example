@@ -1,4 +1,5 @@
 <!-- PROJECT SHIELDS -->
+
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues-open][issues-open-shield]][issues-url]
@@ -11,11 +12,11 @@
 <br />
 <p align="center">
   <a href="https://">
-	  <img src="https://img.icons8.com/color/96/000000/full-image.png" alt="Logo"/>
+	  <img src="https://user-images.githubusercontent.com/67714964/168812689-ca48e6ae-cf9c-4a41-87df-54a732ab2753.png" alt="Logo"/>
   </a>
 
   <h1 align="center">
-	yjs-react-example
+	React Js Project
   </h1>
 
   <p align="center">
@@ -32,11 +33,10 @@
 
 ## Table of Contents
 
-1. [setup](#setup)
-2. [Author](#author)
-3. [Contributing](#contributing)
-4. [Show your support](#show-your-support)
-5. [License](#license)
+- [Author](#author)
+- [Contributing](#contributing)
+- [Show your support](#show-your-support)
+- [License](#license)
 
 ## setup
 
@@ -48,6 +48,7 @@ yarn
 yarn build
 yarn serve
 ```
+
 open http://localhost:3000
 
 # Author
@@ -94,7 +95,7 @@ open http://localhost:3000
         </div>
     </td>
   </tr>
-</table> 
+</table>
 
 # Contributing
 
@@ -119,6 +120,7 @@ Icons from:
 Feel free to fork this project and improve it
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/Israel-Laguan/yjs-react-example?style=for-the-badge
 [contributors-url]: https://github.com/Israel-Laguan/yjs-react-example/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Israel-Laguan/yjs-react-example?style=for-the-badge
